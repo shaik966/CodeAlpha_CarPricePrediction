@@ -1,0 +1,25 @@
+========================================
+🚗 CAR PRICE PREDICTION PROJECT 🚗
+========================================
+
+✅ Project completed successfully using Python and Machine Learning.
+
+📊 Models Used:
+🔹 Linear Regression
+🔹 Random Forest Regressor
+
+📈 Random Forest achieved better prediction accuracy.
+
+🎯 Features Included:
+✔ Data Cleaning
+✔ Feature Engineering
+✔ Model Training
+✔ Data Visualization
+✔ Price Prediction Analysis
+
+🏆 Developed for CodeAlpha Internship
+
+👨‍💻 Developed By:
+Shaik Numaan
+
+========================================
